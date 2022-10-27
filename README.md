@@ -30,10 +30,6 @@
 <br />
 <br />
 
-## Currently Learning
-<img alt="Python" align="left" width="26px" style="margin-right: 5px" src="images/python.png" />
-<img alt="React" align="left" width="26px" style="margin-right: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
 
 
 <!---
