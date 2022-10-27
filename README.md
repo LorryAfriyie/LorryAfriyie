@@ -1,10 +1,9 @@
 -  # Heyo, I’m Lorry Afriyie!👋
 
 
--  I'm into Gaming, Photo Editing, oh and there's no way I can forget about learning about the cool new whatnots of tech whether it may be software or hardware related  👀...
-- 🌱 I’m currently learning Kotlin for mobile development...
-- 💞️ I’m looking to collaborate on frontend projects, I also do not mind working on the backend, at the end the process of meeting great people and being able to level up on my coding skills is the awesome part.
-- 📫 ...
+I'm into Gaming, Photo Editing, oh and there's no way I can forget about learning about the cool new whatnots of tech whether it may be software or hardware related.
+I’m currently learning Kotlin for mobile development...
+I’m looking to collaborate on frontend projects, I also do not mind working on the backend, at the end the process of meeting great people and being able to level up on my coding skills is the awesome part.
 
 ## Languages 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -15,6 +14,7 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <br />
 <br />
+
 ## Tools
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
