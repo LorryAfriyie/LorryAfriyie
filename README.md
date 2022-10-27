@@ -1,4 +1,9 @@
 # Heyo, I’m Lorry Afriyie!👋
+<br />
+
+**Freelance Web Developer**
+
+<br />
 
 
 - I'm into Gaming, Photo Editing, oh and there's no way I can forget about learning about the cool new whatnots of tech whether it may be software or hardware related.
