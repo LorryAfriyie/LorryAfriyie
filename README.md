@@ -2,7 +2,6 @@
 
 
 - I'm into Gaming, Photo Editing, oh and there's no way I can forget about learning about the cool new whatnots of tech whether it may be software or hardware related.
-- I’m currently learning Kotlin for mobile development...
 - I’m looking to collaborate on frontend projects, I also do not mind working on the backend, at the end the process of meeting great people and being able to level up on my coding skills is the awesome part.
 
 ## Languages 
