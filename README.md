@@ -9,7 +9,11 @@
 <br />
 <div>
     <p>
-        I am a freelance full-stack web developer.
+        I am a freelance full-stack web developer. 
+    </p>
+    <br/>
+    <p>
+        Being able to tell a computer what to do is such an awesome feeling, with this ability, I use it to create applications that are meaningful to whoever needs           it. With this ability, there is not limit as long as I learn and grow in the coding space.
     </p>
     <ul>
         <li>
