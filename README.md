@@ -4,37 +4,33 @@
 </h2>
 <div align="center">
 
-# **`Full Stack Developer`**
+**`Full Stack Developer`**
 </div>
+
+---
 <br />
 <div>
     <p>
-        I am a freelance full-stack web developer. 
+        I'm a full-stack web developer. Using my skills to be able to create applications from whatever idea that may come to mind is what makes 
+        being a developer exciting!, and being exposed new tech that improves not only the skills but the application being developed.
+    </p>
+    <p>
+        Being able to instruct a computer on what to do is such an awesome experience, with this ability, I use it to create applications that are meaningful not just for me but to whoever needs it. 
+        With this ability, there are no limits as long as I learn and grow in the coding space.
+    </p>
+    <p>
+        Gaming and photo editing are my hobbies since there is so much creativity that go into these arts, 
+        oh and there's no way I can forget about learning about the cool new 
+        of tech whether it may be software or hardware related.
     </p>
     <br/>
-    <p>
-        Being able to tell a computer what to do is such an awesome feeling, with this ability, I use it to create applications that are meaningful to whoever needs           it. With this ability, there is not limit as long as I learn and grow in the coding space.
-    </p>
-    <ul>
-        <li>
-            I'm into Gaming, Photo Editing, oh and there's no way I can forget about learning about the cool new whatnots 
-            of tech whether it may be software or hardware related.
-        </li>
-        <br/>
-        <li>
-            I’m looking to collaborate on frontend projects, I also do not mind working on the backend, 
-            at the end the process of meeting great people and being able to level up on my coding skills is the awesome part.
-        </li>
-    </ul>
 </div>
+
+---
 <div>
-    <h2>
-        🧰 Languages and Tools
-    </h2>
+    <h3>🧰 Languages and Tools</h3>
     <div style="margin: 0 auto">
         <img align="left" src="images/c-sharp.png" style="margin-right: 15px" width="26px" alt="c-sharp"/>
-        <img align="left" src="images/java.png" style="margin-right: 15px" width="26px" alt="java"/>
-        <img align="left" alt="Python" src="images/python.png" width="26px" style="margin-right: 15px" />
         <img align="left" alt="SQLServer" width="26px" style="margin-right: 15px" src="images/sql-server.png"/>
         <img align="left" alt="React" width="26px" style="margin-right: 15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
         <img align="left" alt="Node.js" width="26px" style="margin-right: 15px" src="images/icons8-node-js-240.png" />
@@ -51,6 +47,19 @@
         <img align="left" alt="Linux" width="26px" style="margin-right: 15px" src="images/linux.png">
         <img align="left" src="images/photoshop.png" alt="Photoshop" width="26px" style="margin-right: 15px" />
     </div>
+    <br/>
+</div>
+<br/>
+
+---
+<div>
+    <h3>Currently Learning</h3>
+    <div>
+        <img align="left" src="images/java.png" style="margin-right: 15px" width="26px" alt="java"/>
+        <img align="left" src="images/icons8-kotlin-144.png" style="margin-right: 15px" width="26px" alt="kotlin">
+        <img align="left" alt="Python" src="images/python.png" width="26px" style="margin-right: 15px" />
+    </div>
+    <br/><br/>
 </div>
 
 
