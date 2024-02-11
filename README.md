@@ -28,11 +28,10 @@
 
 ---
 <div>
-    <h2>🧰 Languages and Tools</h2>
-    <br/>
+    <h1>🧰 Languages and Tools</h1>
 </div>
 
-<table style="margin-left: auto; margin-right: auto; align: center">
+<table style="margin-left: auto; margin-right: auto;">
         <tr>
             <td><img align="center" src="images/c-sharp.png" style="margin-right: 15px" width="80px" alt="c-sharp" /></td>
             <td><img align="center" alt="SQLServer" width="80px" style="margin-right: 15px" src="images/sql-server.png"/></td>
@@ -64,11 +63,11 @@
 
 ---
 <div>
-    <h2>Currently Learning</h2>
+    <h1>Currently Learning</h1>
     <div>
-        <img align="left" src="images/java.png" style="margin-right: 15px" width="50px" alt="java"/>
-        <img align="left" src="images/icons8-kotlin-144.png" style="margin-right: 15px" width="50px" alt="kotlin" />
-        <img align="left" alt="Python" src="images/python.png" width="50px" style="margin-right: 15px" />
+        <img align="center" src="images/java.png" width="50px" alt="java"/>
+        <img align="center" src="images/icons8-kotlin-144.png" width="50px" alt="kotlin" />
+        <img align="center" alt="Python" src="images/python.png" width="50px" />
     </div>
     <br/><br/>
 </div>
