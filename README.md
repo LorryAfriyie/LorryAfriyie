@@ -1,7 +1,7 @@
-<h2 align="center">
+<h1 align="center">
     Heyo, I'm Lorry Afriyie!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="hand-wave" />
-</h2>
+</h1>
 <div align="center">
 
 **`Full Stack Developer`**
@@ -28,36 +28,47 @@
 
 ---
 <div>
-    <h3>🧰 Languages and Tools</h3>
-    <div style="margin: 0 auto">
-        <img align="left" src="images/c-sharp.png" style="margin-right: 15px" width="26px" alt="c-sharp"/>
-        <img align="left" alt="SQLServer" width="26px" style="margin-right: 15px" src="images/sql-server.png"/>
-        <img align="left" alt="React" width="26px" style="margin-right: 15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-        <img align="left" alt="Node.js" width="26px" style="margin-right: 15px" src="images/icons8-node-js-240.png" />
-        <img align="left" alt="Express.js" width="26px" style="margin-right: 15px" src="images/icons8-express-js-150.png"/>
-        <img align="left" alt="JavaScript" width="26px" style="margin-right: 15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-        <img align="left" alt="HTML5" width="26px" style="margin-right: 15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-        <img align="left" alt="CSS3" width="26px" style="margin-right: 15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-        <img align="left" alt="Sass" width="26px" style="margin-right: 15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-        <img align="left" src="images/bootstrap.png" alt="bootstrap" width="26px" style="margin-right: 10px" />
-        <img align="left" src="images/mssql-server.png" alt="mssql" width="26px" style="margin-right: 10px" />
-        <img align="left" alt="MySQL" width="26px" style="margin-right: 15px" src="images/icons8-mysql-logo-240.png" />
-        <img align="left" alt="Git" width="26px" style="margin-right: 15px" src="images/icons8-git-240.png" />
-        <img align="left" alt="GitHub" width="26px" style="margin-right: 15px" src="images/icons8-github-240.png" />
-        <img align="left" alt="Linux" width="26px" style="margin-right: 15px" src="images/linux.png">
-        <img align="left" src="images/photoshop.png" alt="Photoshop" width="26px" style="margin-right: 15px" />
-    </div>
+    <h2>🧰 Languages and Tools</h2>
     <br/>
 </div>
+
+<table style="margin-left: auto; margin-right: auto; align: center">
+        <tr>
+            <td><img align="center" src="images/c-sharp.png" style="margin-right: 15px" width="80px" alt="c-sharp" /></td>
+            <td><img align="center" alt="SQLServer" width="80px" style="margin-right: 15px" src="images/sql-server.png"/></td>
+            <td><img align="center" alt="React" width="80px" style="margin-right: 15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></td>
+            <td><img align="center" alt="Node.js" width="80px" style="margin-right: 15px" src="images/icons8-node-js-240.png" /></td>
+        </tr>
+         <tr>
+            <td><img align="center" alt="JavaScript" width="80px" style="margin-right: 15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></td>
+            <td><img align="center" alt="HTML5" width="80px" style="margin-right: 15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></td>
+            <td><img align="center" alt="CSS3" width="80px" style="margin-right: 15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></td>
+            <td><img align="center" alt="Sass" width="80px" style="margin-right: 15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></td>
+        </tr>
+         <tr>
+            <td><img align="center" src="images/bootstrap.png" alt="bootstrap" width="80px" style="margin-right: 10px" /></td>
+            <td><img align="center" src="images/mssql-server.png" alt="mssql" width="80px" style="margin-right: 10px" /></td>
+            <td><img align="center" alt="MySQL" width="80px" style="margin-right: 15px" src="images/icons8-mysql-logo-240.png" /></td>
+            <td><img align="left" alt="Git" width="80px" style="margin-right: 15px" src="images/icons8-git-240.png" /></td>
+        </tr>
+         <tr>
+            <td><img align="center" alt="GitHub" width="80px" style="margin-right: 15px" src="images/icons8-github-240.png" /></td>
+            <td><img align="center" alt="Linux" width="80px" style="margin-right: 15px" src="images/linux.png"></td>
+            <td><img align="center" src="images/photoshop.png" alt="Photoshop" width="80px" style="margin-right: 15px" /></td>
+            <td><img align="center" alt="Express.js" width="80px" style="margin-right: 15px" src="images/icons8-express-js-150.png" /></td>
+        </tr>
+    </table>
+
+
 <br/>
 
 ---
 <div>
-    <h3>Currently Learning</h3>
+    <h2>Currently Learning</h2>
     <div>
-        <img align="left" src="images/java.png" style="margin-right: 15px" width="26px" alt="java"/>
-        <img align="left" src="images/icons8-kotlin-144.png" style="margin-right: 15px" width="26px" alt="kotlin">
-        <img align="left" alt="Python" src="images/python.png" width="26px" style="margin-right: 15px" />
+        <img align="left" src="images/java.png" style="margin-right: 15px" width="50px" alt="java"/>
+        <img align="left" src="images/icons8-kotlin-144.png" style="margin-right: 15px" width="50px" alt="kotlin" />
+        <img align="left" alt="Python" src="images/python.png" width="50px" style="margin-right: 15px" />
     </div>
     <br/><br/>
 </div>
