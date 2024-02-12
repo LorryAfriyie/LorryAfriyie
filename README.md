@@ -4,10 +4,12 @@
 </h1>
 <div align="center">
 
-**`Full Stack Developer`**
+**`Full Web Stack Developer`**
+
 </div>
 
 ---
+
 <br />
 <div>
     <p>
@@ -27,6 +29,7 @@
 </div>
 
 ---
+
 <div>
     <h1>🧰 Languages and Tools</h1>
 </div>
@@ -58,20 +61,21 @@
         </tr>
     </table>
 
-
 <br/>
 
 ---
+
 <div>
-    <h1>Currently Learning</h1>
+    <h1>📚 Currently Learning</h1>
     <div>
-        <img align="center" src="images/java.png" width="50px" alt="java"/>
-        <img align="center" src="images/icons8-kotlin-144.png" width="50px" alt="kotlin" />
-        <img align="center" alt="Python" src="images/python.png" width="50px" />
+        <img align="center" src="images/java.png" width="50px" style="margin-right: 15px" alt="java"/>
+        <img align="center" src="images/icons8-kotlin-144.png" width="50px" style="margin-right: 15px" alt="kotlin" />
+        <img align="center" alt="Python" src="images/python.png" width="50px" style="margin-right: 15px" />
+        <img align="center" alt="Python" src="images/vite-svgrepo-com.png" width="50px" style="margin-right: 15px" />
+        <img align="center" alt="Python" src="images/next-dot-js-svgrepo-com.png" width="50px" style="margin-right: 15px" />
     </div>
     <br/><br/>
 </div>
-
 
 <!--
 Here are some ideas to get you started:
