@@ -47,9 +47,9 @@
     <h1>🧰 Languages and Tools</h1>
 </div>
 
-<table style="margin-left: auto; margin-right: auto;">
+<table aling="left">
         <tr>
-            <td><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="80px" alt="c-sharp" /></td>
+            <td><img align="center" alt="c-sharp" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="80px"  /></td>
             <td><img align="center" alt="SQLServer" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg"/></td>
             <td><img align="center" alt="React" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" /></td>
             <td><img align="center" alt="Node.js" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /></td>
@@ -61,8 +61,8 @@
             <td><img align="center" alt="Sass" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></td>
         </tr>
          <tr>
-            <td><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="80px" /></td>
-            <td><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="mssql" width="80px" /></td>
+            <td><img align="center" alt="bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  width="80px" /></td>
+            <td><img align="center" alt="mssql" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg"  width="80px" /></td>
             <td><img align="center" alt="MySQL" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" /></td>
             <td><img align="left" alt="Git" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" /></td>
         </tr>
@@ -74,11 +74,16 @@
         </tr>
         <tr>
             <td>
+                <img align="center" alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="80px"  />
+            </td>
+            <td>
+                <img align="center" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="80px" />
+            </td>
+            <td>
                 <img align="center" alt="Apache" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" />
             </td>
         </tr>
     </table>
-
 <br/>
 
 ---
@@ -86,9 +91,7 @@
 <div>
     <h1>📚 Currently Learning</h1>
     <div>
-        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50px" style="margin-right: 15px" alt="java"/>
         <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="50px" style="margin-right: 15px" alt="kotlin" />
-        <img align="center" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50px" style="margin-right: 15px" />
         <img align="center" alt="Vite.js" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="50px" style="margin-right: 15px" />
         <img align="center" alt="Next.js" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="50px" style="margin-right: 15px" />
         <img align="center" alt="Tailwind" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50px" style="margin-right: 15px" />
