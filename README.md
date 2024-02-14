@@ -72,6 +72,11 @@
             <td><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="80px" /></td>
             <td><img align="center" alt="Express.js" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" /></td>
         </tr>
+        <tr>
+            <td>
+                <img align="center" alt="Apache" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" />
+            </td>
+        </tr>
     </table>
 
 <br/>
@@ -81,11 +86,12 @@
 <div>
     <h1>📚 Currently Learning</h1>
     <div>
-        <img align="center" src="images/java.png" width="50px" style="margin-right: 15px" alt="java"/>
-        <img align="center" src="images/icons8-kotlin-144.png" width="50px" style="margin-right: 15px" alt="kotlin" />
-        <img align="center" alt="Python" src="images/python.png" width="50px" style="margin-right: 15px" />
-        <img align="center" alt="Python" src="images/vite-svgrepo-com.png" width="50px" style="margin-right: 15px" />
-        <img align="center" alt="Python" src="images/next-dot-js-svgrepo-com.png" width="50px" style="margin-right: 15px" />
+        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50px" style="margin-right: 15px" alt="java"/>
+        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="50px" style="margin-right: 15px" alt="kotlin" />
+        <img align="center" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50px" style="margin-right: 15px" />
+        <img align="center" alt="Vite.js" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="50px" style="margin-right: 15px" />
+        <img align="center" alt="Next.js" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="50px" style="margin-right: 15px" />
+        <img align="center" alt="Tailwind" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50px" style="margin-right: 15px" />
     </div>
     <br/><br/>
 </div>
