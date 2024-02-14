@@ -1,3 +1,12 @@
+<div align='center'>
+    <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
+    <div id="badges">
+        <a href='https://www.linkedin.com/in/lawrence-afriyie-9576b715a'>
+            <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="150"/>
+        </a>
+    </div>
+</div>
+
 <h1 align="center">
     Heyo, I'm Lorry Afriyie!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="hand-wave" />
@@ -11,6 +20,10 @@
 ---
 
 <br />
+
+<div align='center'>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NocmphZzJ4djMxZms0MGNwem13bnVsc3ZzamRudm9rbzNmeXp6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="300"/>
+</div>
 <div>
     <p>
         I'm a full-stack web developer. Using my skills to be able to create applications from whatever idea that may come to mind is what makes 
@@ -36,28 +49,28 @@
 
 <table style="margin-left: auto; margin-right: auto;">
         <tr>
-            <td><img align="center" src="images/c-sharp.png" width="80px" alt="c-sharp" /></td>
-            <td><img align="center" alt="SQLServer" width="80px" src="images/sql-server.png"/></td>
-            <td><img align="center" alt="React" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></td>
-            <td><img align="center" alt="Node.js" width="80px" src="images/icons8-node-js-240.png" /></td>
+            <td><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="80px" alt="c-sharp" /></td>
+            <td><img align="center" alt="SQLServer" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg"/></td>
+            <td><img align="center" alt="React" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" /></td>
+            <td><img align="center" alt="Node.js" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /></td>
         </tr>
          <tr>
-            <td><img align="center" alt="JavaScript" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></td>
-            <td><img align="center" alt="HTML5" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></td>
-            <td><img align="center" alt="CSS3" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></td>
+            <td><img align="center" alt="JavaScript" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /></td>
+            <td><img align="center" alt="HTML5" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" /></td>
+            <td><img align="center" alt="CSS3" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" /></td>
             <td><img align="center" alt="Sass" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></td>
         </tr>
          <tr>
-            <td><img align="center" src="images/bootstrap.png" alt="bootstrap" width="80px" /></td>
-            <td><img align="center" src="images/mssql-server.png" alt="mssql" width="80px" /></td>
-            <td><img align="center" alt="MySQL" width="80px" src="images/icons8-mysql-logo-240.png" /></td>
-            <td><img align="left" alt="Git" width="80px" src="images/icons8-git-240.png" /></td>
+            <td><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="80px" /></td>
+            <td><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="mssql" width="80px" /></td>
+            <td><img align="center" alt="MySQL" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" /></td>
+            <td><img align="left" alt="Git" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" /></td>
         </tr>
          <tr>
-            <td><img align="center" alt="GitHub" width="80px" src="images/icons8-github-240.png" /></td>
-            <td><img align="center" alt="Linux" width="80px" src="images/linux.png"></td>
-            <td><img align="center" src="images/photoshop.png" alt="Photoshop" width="80px" /></td>
-            <td><img align="center" alt="Express.js" width="80px" src="images/icons8-express-js-150.png" /></td>
+            <td><img align="center" alt="GitHub" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" /></td>
+            <td><img align="center" alt="Linux" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></td>
+            <td><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="80px" /></td>
+            <td><img align="center" alt="Express.js" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" /></td>
         </tr>
     </table>
 
@@ -76,6 +89,10 @@
     </div>
     <br/><br/>
 </div>
+
+---
+# :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorryAfriyie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
