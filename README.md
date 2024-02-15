@@ -46,45 +46,34 @@
 <div>
     <h1>🧰 Languages and Tools</h1>
 </div>
-
 <table aling="center">
         <tr>
             <td><img align="center" alt="c-sharp" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="80px"  /></td>
-            <td><img align="center" alt="SQLServer" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg"/></td>
+            <td><img align="center" alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="80px"  /></td>
             <td><img align="center" alt="React" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" /></td>
-            <td><img align="center" alt="Node.js" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /></td>
+            <td><img align="center" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="80px" /></td>
+			<td><img align="center" alt="Node.js" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /></td>
         </tr>
-         <tr>
+        <tr>
             <td><img align="center" alt="JavaScript" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /></td>
             <td><img align="center" alt="HTML5" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" /></td>
             <td><img align="center" alt="CSS3" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" /></td>
             <td><img align="center" alt="Sass" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></td>
+			<td><img align="center" alt="bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  width="80px" /></td>
         </tr>
-         <tr>
-            <td><img align="center" alt="bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  width="80px" /></td>
+        <tr>
+            <td><img align="center" alt="SQLServer" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg"/></td>
             <td><img align="center" alt="mssql" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg"  width="80px" /></td>
             <td><img align="center" alt="MySQL" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" /></td>
-            <td><img align="left" alt="Git" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" /></td>
+            <td><img align="center" alt="Git" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" /></td>
+			<td><img align="center" alt="GitHub" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" /></td>
         </tr>
-         <tr>
-            <td><img align="center" alt="GitHub" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" /></td>
+        <tr>
             <td><img align="center" alt="Linux" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></td>
             <td><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="80px" /></td>
             <td><img align="center" alt="Express.js" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" /></td>
-        </tr>
-        <tr>
-            <td>
-                <img align="center" alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="80px"  />
-            </td>
-            <td>
-                <img align="center" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="80px" />
-            </td>
-            <td>
-                <img align="center" alt="Apache" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" />
-            </td>
-            <td>
-                <img align="center" alt="npm" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
-            </td>
+			<td><img align="center" alt="Apache" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" /></td>
+			<td><img align="center" alt="npm" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" /></td>
         </tr>
     </table>
 <br/>
