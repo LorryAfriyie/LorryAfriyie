@@ -95,8 +95,9 @@
         <img align="center" alt="Vite.js" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="50px" style="margin-right: 15px" />
         <img align="center" alt="Next.js" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="50px" style="margin-right: 15px" />
         <img align="center" alt="Tailwind" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50px" style="margin-right: 15px" />
+        <img align="center" alt="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50px" style="margin-right: 15px" />
     </div>
-    <br/><br/>
+    <br/>
 </div>
 
 ---
