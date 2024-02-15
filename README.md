@@ -47,7 +47,7 @@
     <h1>🧰 Languages and Tools</h1>
 </div>
 
-<table aling="left">
+<table aling="center">
         <tr>
             <td><img align="center" alt="c-sharp" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="80px"  /></td>
             <td><img align="center" alt="SQLServer" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg"/></td>
@@ -81,6 +81,9 @@
             </td>
             <td>
                 <img align="center" alt="Apache" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" />
+            </td>
+            <td>
+                <img align="center" alt="npm" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
             </td>
         </tr>
     </table>
