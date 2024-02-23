@@ -71,6 +71,7 @@
 	    <td><img align="center" alt="Apache" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" /></td>
 	    <td><img align="center" alt="npm" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" /></td>
         </tr>
+            <td><img align="center" alt="wordpress" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" /></td>
         <tr>  
         </tr>
     </table>
