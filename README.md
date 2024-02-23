@@ -13,7 +13,7 @@
 </h1>
 <div align="center">
 
-**`Full Web Stack Developer`**
+**`Web Developer`**
 
 </div>
 
