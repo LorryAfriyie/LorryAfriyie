@@ -85,6 +85,7 @@
         <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="60px" style="margin-right: 15px" alt="kotlin" />
         <img align="center" alt="Vite.js" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="60px" style="margin-right: 15px" />
         <img align="center" alt="Next.js" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="60px" style="margin-right: 15px" />
+	<img align="center" alt="Next.js" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="60px" style="margin-right: 15px" />
         <img align="center" alt="Tailwind" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="60px" style="margin-right: 15px" />
         <img align="center" alt="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="60px" style="margin-right: 15px" />
     </div>
