@@ -13,7 +13,7 @@
 </h1>
 <div align="center">
 
-**`Web Developer`**
+**`Front-End Developer`**
 
 </div>
 
