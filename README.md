@@ -4,6 +4,10 @@
         <a href='https://www.linkedin.com/in/lawrence-afriyie-9576b715a'>
             <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="150"/>
         </a>
+	&ensp;
+     	<a href="mailto:lawrenceafriyie35@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" width="110"/>
+        </a>
     </div>
 </div>
 
