@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
     <div id="badges">
         <a href='https://www.linkedin.com/in/lawrence-afriyie-9576b715a'>
-            <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="114"/>
+            <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="116"/>
         </a>
 	&ensp;
      	<a href="mailto:lawrenceafriyie35@gmail.com">
